@@ -11,7 +11,7 @@ class Footer extends React.Component{
             super(props);
 
             this.state ={
-                title: 'Footer'
+                title: 'Footer ew'
         }
     }
 
